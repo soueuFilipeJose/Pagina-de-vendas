@@ -9,7 +9,7 @@
   --paper: #f7f5ef; --white: #fff; --ink: #1f2933; --muted: #59655f;
   --line: #dce2da; --soft: #eaf0e7; --radius: 20px;
   --shadow: 0 12px 35px #173d2b0d;
-  --body: "Inter", system-ui, sans-serif; --heading: "Montserrat", system-ui, sans-serif;
+  --body: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; --heading: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
 *, *::before, *::after { box-sizing: border-box; }
 html { scroll-behavior: smooth; scroll-padding-top: 110px; }
